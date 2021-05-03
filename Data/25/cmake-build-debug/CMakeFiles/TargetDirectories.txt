@@ -1,0 +1,3 @@
+C:/Users/79514/MFFM/ege/25/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/79514/MFFM/ege/25/cmake-build-debug/CMakeFiles/25.dir
+C:/Users/79514/MFFM/ege/25/cmake-build-debug/CMakeFiles/rebuild_cache.dir

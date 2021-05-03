@@ -1,0 +1,4 @@
+ToolSet: w64 5.0 (local)@C:\MinGW\gcc
+Options: 
+
+Options:
