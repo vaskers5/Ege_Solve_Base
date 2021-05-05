@@ -1,5 +1,7 @@
-Ege_Solve_Base
+Ege Solve Base
 =====================
+
+## [TODO List](https://github.com/vaskers5/Ege_Solve_Base/blob/main/TODO.md)
 
 ### 2. Построение таблиц истинности логических выражений
 
