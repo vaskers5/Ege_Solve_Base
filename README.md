@@ -23,12 +23,11 @@ Ege Solve Base
 * [Передача информации. Выбор кода](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/4/codechoosing.ipynb)
 
 ### 5. Анализ и построение алгоритмов для исполнителей
-
+``` Разные задачи ```
+``` Арифмометры с движением в обе стороны ```
 * [Исполнители на плоскости](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/5/onplane.ipynb)
 * [Посимвольное двоичное преобразование](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/5/symbols2system.ipynb)
-* [Разные задачи]()
 * [Арифмометры](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/5/arifms.ipynb)
-* [Арифмометры с движением в обе стороны]()
 * [Посимвольное десятичное преобразование](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/5/symbols10system.ipynb)
 
 ### 6. Анализ программ
@@ -55,7 +54,7 @@ Ege Solve Base
 
 ### 10. Поиск символов в текстовом редакторе
 
-* [empty]()
+``` Поиск символов в текстовом редакторе ```
 
 ### 11. Вычисление количества информации
 
@@ -70,17 +69,16 @@ Ege Solve Base
 * [Guide](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/13/guide.ipynb)
 
 ### 14. Кодирование чисел. Системы счисления
-
+``` rename getmain ```
 * [getmain](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/14/getmain.ipynb)
 * [Системы](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/14/systems.ipynb)
 
 ### 15. Преобразование логических выражений
-
+``` Дискретные множества ```
+``` Разное ```
 * [Побитовая конъюнкция](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/15/conjuction.ipynb)
 * [Числовые отрезки](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/15/segments.ipynb)
-* [Дискретные множества]()
 * [Координатная плоскость](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/15/coordinates.ipynb)
-* [Разное]()
 
 ### 16. Рекурсивные алгоритмы
 
@@ -107,8 +105,7 @@ Ege Solve Base
 * [Разное](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/23/solve.ipynb)
 
 ### 24. Обработка символьных строк
-
-* [empty]()
+``` Обработка символьных строк ```
 
 ### 25. Обработка целочисленной информации
 
@@ -119,7 +116,7 @@ Ege Solve Base
 * [Разное](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/26/Untitled.ipynb)
 
 ### 27. Программирование
-
+``` rename comb ```
 * [comb](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/27/comb.ipynb)
 * [Пары-тройки](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/27/pairs-triples.ipynb)
 * [Последовательность](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/27/sequence.ipynb)
