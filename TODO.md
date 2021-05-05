@@ -8,7 +8,7 @@
 
 3) get solves for 26 task
 
-### [*1Menemi1*](https://github.com/1Menemi
+### [*1Menemi1*](https://github.com/1Menemi1)
 
 1) Readme - in progress
 
