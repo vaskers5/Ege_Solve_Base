@@ -21,9 +21,9 @@
 
 1) get solves for 2 task
 
-2)create guide for 18 task
+2) create guide for 18 task
 
-3)get solves for 14 task
+3) get solves for 14 task
 
 #### NODE How to create guide:
 
