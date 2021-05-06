@@ -10,11 +10,9 @@
 
 ### [*1Menemi1*](https://github.com/1Menemi1)
 
-1) Readme - in progress
+1) Create guide for 1-st task
 
-2) Create guide for 1-st task
-
-3) Create guide for 3-st task
+2) Create guide for 3-st task
 
 
 ### [*viclown*](https://github.com/viclown)
