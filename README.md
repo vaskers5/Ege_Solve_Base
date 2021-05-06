@@ -53,7 +53,7 @@ Ege Solve Base
 
 ### 10. Поиск символов в текстовом редакторе
 
-``` Поиск символов в текстовом редакторе ```
+* [Guide](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/10/guide.ipynb)
 
 ### 11. Вычисление количества информации
 
@@ -103,7 +103,8 @@ Ege Solve Base
 * [Разное](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/23/solve.ipynb)
 
 ### 24. Обработка символьных строк
-``` Обработка символьных строк ```
+
+* [Разное](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/24/solve.ipynb)
 
 ### 25. Обработка целочисленной информации
 
