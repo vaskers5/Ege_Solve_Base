@@ -23,8 +23,7 @@ Ege Solve Base
 * [Передача информации. Выбор кода](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/4/codechoosing.ipynb)
 
 ### 5. Анализ и построение алгоритмов для исполнителей
-``` Разные задачи ```
-``` Арифмометры с движением в обе стороны ```
+
 * [Исполнители на плоскости](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/5/onplane.ipynb)
 * [Посимвольное двоичное преобразование](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/5/symbols2system.ipynb)
 * [Арифмометры](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/5/arifms.ipynb)
@@ -69,13 +68,12 @@ Ege Solve Base
 * [Guide](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/13/guide.ipynb)
 
 ### 14. Кодирование чисел. Системы счисления
-``` rename getmain ```
-* [getmain](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/14/getmain.ipynb)
+
+* [Определение основания](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/14/getmain.ipynb)
 * [Системы](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/14/systems.ipynb)
 
 ### 15. Преобразование логических выражений
 ``` Дискретные множества ```
-``` Разное ```
 * [Побитовая конъюнкция](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/15/conjuction.ipynb)
 * [Числовые отрезки](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/15/segments.ipynb)
 * [Координатная плоскость](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/15/coordinates.ipynb)
@@ -116,7 +114,7 @@ Ege Solve Base
 * [Разное](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/26/Untitled.ipynb)
 
 ### 27. Программирование
-``` rename comb ```
-* [comb](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/27/comb.ipynb)
+
+* [Комбинаторика](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/27/comb.ipynb)
 * [Пары-тройки](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/27/pairs-triples.ipynb)
 * [Последовательность](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/27/sequence.ipynb)
