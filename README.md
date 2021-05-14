@@ -77,6 +77,7 @@ Ege Solve Base
 * [Побитовая конъюнкция](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/15/conjuction.ipynb)
 * [Числовые отрезки](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/15/segments.ipynb)
 * [Координатная плоскость](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/15/coordinates.ipynb)
+* [Наборы](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/15/sets.ipynb)
 
 ### 16. Рекурсивные алгоритмы
 
