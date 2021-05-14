@@ -73,7 +73,7 @@ Ege Solve Base
 * [Системы](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/14/systems.ipynb)
 
 ### 15. Преобразование логических выражений
-``` Дискретные множества ```
+
 * [Побитовая конъюнкция](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/15/conjuction.ipynb)
 * [Числовые отрезки](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/15/segments.ipynb)
 * [Координатная плоскость](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/15/coordinates.ipynb)
