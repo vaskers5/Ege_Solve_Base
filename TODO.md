@@ -1,6 +1,6 @@
 # TODO List
 
-### [*vaskers5*](https://github.com/vaskers5)
+## [*vaskers5*](https://github.com/vaskers5)
 
 1) get solves for 24 task
 
@@ -8,14 +8,14 @@
 
 3) get solves for 26 task
 
-### [*1Menemi1*](https://github.com/1Menemi1)
+## [*1Menemi1*](https://github.com/1Menemi1)
 
 1) Create guide for 1-st task
 
 2) Create guide for 3-st task
 
 
-### [*viclown*](https://github.com/viclown)
+## [*viclown*](https://github.com/viclown)
 
 1) get solves for 2 task
 
