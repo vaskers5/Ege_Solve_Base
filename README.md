@@ -105,7 +105,7 @@ Ege Solve Base
 
 ### 24. Обработка символьных строк
 
-* [Разное](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/24/solve.ipynb)
+* [Разное](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Data/24/solves.ipynb)
 
 ### 25. Обработка целочисленной информации
 
