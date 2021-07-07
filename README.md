@@ -1,6 +1,6 @@
 Ege Solve Base
 =====================
-
+## [Шпора по всему](https://github.com/vaskers5/Ege_Solve_Base/blob/main/Speedshit/Shpora_Python.pdf)
 ## [TODO List](https://github.com/vaskers5/Ege_Solve_Base/blob/main/TODO.md)
 
 ### 1. Анализ информационных моделей
